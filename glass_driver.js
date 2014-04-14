@@ -2,7 +2,7 @@
 var server = null;
 var GlassDriver = module.exports = function(data,_server) {
   this.type = 'glass';
-  this.name = 'glass '+data.address;
+  this.name = 'Glass '+data.address;
   this.data = data;
   this.state = 'on';
   

@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/zettajs/elroy-glass-driver.git"
+    "url": "git://github.com/zettajs/zetta-glass-driver.git"
   },
   "keywords": [
     "zettajs",
@@ -20,7 +20,7 @@
     "wearables"
   ],
   "bugs": {
-    "url": "https://github.com/zettajs/elroy-glass-driver/issues"
+    "url": "https://github.com/zettajs/zetta-glass-driver/issues"
   },
-  "homepage": "https://github.com/zettajs/elroy-glass-driver"
+  "homepage": "https://github.com/zettajs/zetta-glass-driver"
 }

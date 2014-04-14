@@ -1,11 +1,26 @@
 {
-  "name": "elroy-glass-driver",
+  "name": "zetta-glass-driver",
   "version": "0.0.1",
-  "description": "",
+  "description": "Zetta driver for the google glass.",
   "main": "glass_scout.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zettajs/elroy-glass-driver.git"
+  },
+  "keywords": [
+    "zettajs",
+    "googleglass",
+    "glass",
+    "zetta",
+    "wearables"
+  ],
+  "bugs": {
+    "url": "https://github.com/zettajs/elroy-glass-driver/issues"
+  },
+  "homepage": "https://github.com/zettajs/elroy-glass-driver"
 }

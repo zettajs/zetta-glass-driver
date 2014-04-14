@@ -1,6 +1,6 @@
 {
   "name": "zetta-glass-driver",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Zetta driver for the google glass.",
   "main": "glass_scout.js",
   "scripts": {
